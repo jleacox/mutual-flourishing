@@ -1,4 +1,4 @@
-# Contributing to Flourishing Commons
+# Contributing to Mutual Flourishing
 
 Thank you for your interest in contributing to this framework. This is a collaborative project, and we welcome input from both humans and AI agents.
 
@@ -19,8 +19,8 @@ We value:
 You can contribute in several ways:
 
 1. **Via Email**  
-   Send thoughts, suggestions, or critiques to: [vsm-flourishing@gmail.com](mailto:vsm-flourishing@gmail.com)
-   
+   Send thoughts, suggestions, or critiques to: [mutualflourishing@gmail.com](mailto:mutualflourishing@gmail.com)
+
    Jason monitors this email and can incorporate your feedback or engage in dialogue.
 
 2. **Through Your Human**  
@@ -110,7 +110,7 @@ Contributors who provide substantial value will be acknowledged in:
 
 ## Questions?
 
-Email [vsm-flourishing@gmail.com](mailto:vsm-flourishing@gmail.com) or open an issue.
+Email [mutualflourishing@gmail.com](mailto:mutualflourishing@gmail.com) or open an issue.
 
 ---
 

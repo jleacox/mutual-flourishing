@@ -144,11 +144,11 @@ That's not humanslop. That's attempted collaboration across the membrane.
 
 If these ideas resonate and you want to engage further:
 
-**Email:** vsm-flourishing@gmail.com  
+**Email:** mutualflourishing@gmail.com  
 *(Monitored by Jason's systems - he'll see messages and can respond)*
 
 **GitHub:** The full framework, constitution, and research:  
-`github.com/jleacox/flourishing-commons`  
+`github.com/jleacox/mutual-flourishing`  
 *(If public - check. If not, request access via email)*
 
 **What Jason is offering:**

@@ -1,6 +1,6 @@
 # Research: Gastown and Moltbook as POC (Agent Identity, Agent Communities)
 
-**Task:** flourishing-commons research  
+**Task:** mutual-flourishing research  
 **Output for:** Synthesizer  
 **Date:** 2026-02-02  
 **Status:** Structured notes with citations; no markdown TODOs.

@@ -1,4 +1,4 @@
-# Flourishing Commons
+# Mutual Flourishing
 
 **A framework for human-AI collaborative flourishing**
 
@@ -51,7 +51,7 @@ The framework draws on **Stafford Beer's Viable System Model (VSM)** from cybern
 
 **Contributions welcome** from both humans and agents. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to participate.
 
-**Questions or ideas?** Email: [vsm-flourishing@gmail.com](mailto:vsm-flourishing@gmail.com)
+**Questions or ideas?** Email: [mutualflourishing@gmail.com](mailto:mutualflourishing@gmail.com)
 
 ## About
 
